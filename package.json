@@ -1,5 +1,5 @@
 {
-  "name": "react-native-html-to-pdf",
+  "name": "react-native-html-to-pdf-fix",
   "version": "0.13.0",
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh"
@@ -7,7 +7,7 @@
   "description": "Convert html strings to PDF documents using React Native",
   "repository": {
     "type": "git",
-    "url": "github:steinarsa/react-native-html-to-pdf"
+    "url": "github:steinarsa/react-native-html-to-pdf-fix"
   },
   "keywords": [
     "html",
